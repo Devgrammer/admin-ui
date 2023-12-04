@@ -1,0 +1,52 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+
+table{
+  width: 100%;
+  height: max-content;
+  border: none;
+  background-color: white;
+  color: black;
+  border-radius:4px ;
+}
+
+  
+  
+thead{
+  background-color: black;
+  color: white;
+}
+
+tr{
+  height: 40px;
+  
+}
+
+button{
+  width: max-content;
+  height: min-content;
+  background: white;
+  font-weight: 500;
+  color: black;
+  border: none;
+  margin: 4px;
+  padding: 8px;
+  border-radius: 4px;
+  box-shadow: none;
+}
+
+
+
+
+
